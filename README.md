@@ -45,3 +45,5 @@ BirdLife_v3: Latin species name following the BirdLife v3 taxonomic authority (u
 BirdLife_v7: Latin species name following the BirdLife v7 taxonomic authority;
 IOC_v13.1: Latin species name following the IOC World Bird List v13.1 .
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8006811.svg)](https://doi.org/10.5281/zenodo.8006811) 
+
